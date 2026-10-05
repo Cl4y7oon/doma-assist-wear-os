@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+tmp/
+*.jks
+*.keystore
+.DS_Store
+Trabalho Prático _ DGT2816 Interação com sensores de smartphones e wearebles.pdf
+trabalho sensores mobile.md

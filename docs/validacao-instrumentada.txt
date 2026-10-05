@@ -1,0 +1,5 @@
+br.com.doma.assist.WearIntegrationTest:...
+
+Time: 1.396
+
+OK (3 tests)

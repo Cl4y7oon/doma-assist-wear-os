@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doma Assist</string>
+    <string name="audio_disconnected">Áudio desconectado. Conecte um fone.</string>
+    <string name="audio_stopped">Áudio interrompido</string>
+    <string name="notification_cleared">Última notificação apagada</string>
+    <string name="voice_empty">Nenhuma fala reconhecida. Tente novamente.</string>
+</resources>

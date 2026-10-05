@@ -1,0 +1,25 @@
+{
+  "data": "2026-10-05",
+  "dispositivo": "Wear OS Small Round/API 30",
+  "compilacao": "aprovada",
+  "testes_unitarios": {
+    "total": 3,
+    "falhas": 0
+  },
+  "testes_instrumentados": {
+    "total": 3,
+    "falhas": 0
+  },
+  "lint": {
+    "avisos": 3,
+    "erros": 0,
+    "tipo_avisos": "atualizacao das dependencias de testes"
+  },
+  "tts": "callbacks START/DONE confirmados",
+  "apk_sha256": "039757735379ef8465cd3a84860b843833cedbfb8a506acafaa186aed634356c",
+  "testes_fisicos": "nao realizados; a entrega utiliza a alternativa de simulacao prevista na pagina 19",
+  "captura_ide": "concluida: quatro imagens pelo Take Screenshot e uma evidencia da janela da IDE",
+  "captura_app_complementar": "procedimento de apoio da microatividade 5 nao executado; nenhuma evidencia atribuida ao app complementar",
+  "projeto_e_pdf_no_git": "publicados em repositorio publico",
+  "envio_sala_virtual": "a realizar"
+}

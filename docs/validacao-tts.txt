@@ -1,0 +1,22 @@
+--------- beginning of kernel
+--------- beginning of main
+--------- beginning of system
+--------- beginning of crash
+10-05 14:39:01.351  3578  3610 I DomaSpeech: START
+10-05 14:39:19.470  3578  3615 I DomaSpeech: DONE
+10-05 14:44:09.937  3940  3973 I DomaSpeech: START
+10-05 14:44:17.575  3940  3966 I DomaSpeech: DONE
+10-05 14:44:45.118  3940  4021 I DomaSpeech: START
+10-05 14:44:47.451  3940  3967 I DomaSpeech: START
+10-05 14:44:49.790  3940  3971 I DomaSpeech: START
+10-05 14:44:51.999  3940  4021 I DomaSpeech: START
+10-05 14:44:54.174  3940  4021 I DomaSpeech: START
+10-05 14:44:56.405  3940  3967 I DomaSpeech: START
+10-05 14:44:58.551  3940  4021 I DomaSpeech: START
+10-05 14:45:06.177  3940  4058 I DomaSpeech: DONE
+10-05 14:49:08.587  3940  4058 I DomaSpeech: START
+10-05 14:49:11.396  3940  4206 I DomaSpeech: DONE
+10-05 14:49:13.772  3940  4206 I DomaSpeech: START
+10-05 14:49:16.567  3940  4206 I DomaSpeech: DONE
+10-05 14:49:18.842  3940  3972 I DomaSpeech: START
+10-05 14:49:36.295  3940  3972 I DomaSpeech: DONE
